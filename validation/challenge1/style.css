@@ -1,0 +1,23 @@
+body {
+   background-color: #fff;
+   color: #333;
+   font: 1em / 1.4 Helvetica Neue, Helvetica, Arial, sans-serif;
+   padding: 1em;
+   margin: 0;
+}
+
+* {
+   box-sizing: border-box;
+}
+
+.error {
+   background-color: red;
+   color: #fff;
+   width: max-content;
+   padding: 0.5em;
+   border-radius: 5px;
+}
+
+.hide {
+   display: none;
+}
